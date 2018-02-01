@@ -1,3 +1,8 @@
 !_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
-exercise2	/Users/serinahu/Documents/CS51/labs/lab1/lab1.ml	/^let exercise2 () = failwith 42 ;;$/;"	v	language:OCaml
+exercise2	/Users/serinahu/Documents/CS51/labs/lab1/lab1.ml	/^let exercise2 () = 42 ;;$/;"	v	language:OCaml
 Lab1	/Users/serinahu/Documents/CS51/labs/lab1/lab1.ml	/^(* $/;"	M	language:OCaml
+max_list	/Users/serinahu/Documents/CS51/labs/lab1/lab1.ml	/^let rec max_list (lst : int list) : int =$/;"	v	language:OCaml
+prods	/Users/serinahu/Documents/CS51/labs/lab1/lab1.ml	/^let rec prods (lst : (int * int) list) : int list =$/;"	v	language:OCaml
+prods_ho	/Users/serinahu/Documents/CS51/labs/lab1/lab1.ml	/^let prods_ho (lst : (int * int) list) : int list =$/;"	v	language:OCaml
+sum_ho	/Users/serinahu/Documents/CS51/labs/lab1/lab1.ml	/^let sum_ho (lst : int list) : int =$/;"	v	language:OCaml
+zip	/Users/serinahu/Documents/CS51/labs/lab1/lab1.ml	/^let rec zip (x : int list) (y : int list) : (int * int) list =$/;"	v	language:OCaml
